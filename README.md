@@ -1,3 +1,6 @@
+# copyright
+https://www.cnblogs.com/wisewrong/p/6495726.html#home
+
 # dxn_tenant
 
 > the management system for dxn_tenant
